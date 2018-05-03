@@ -1,2 +1,2 @@
-# Python-Things-I-ve-Done-So-Far
-My PORTFOLIO in ptyhon
+# Hi, this is just a random repository where I keep all my stuff
+
